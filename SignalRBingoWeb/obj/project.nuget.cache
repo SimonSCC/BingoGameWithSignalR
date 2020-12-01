@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pB+v13aMqV7P6wG05EEl2vXashFSP4cT+XnrV0yxuEExJ2npNzxQIZ5QJSxDP4hox4EFLWcuC5vNhkBHvnMG5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Code\\Portfolio - Opgaver\\SignalRBingoSolution\\SignalRBingoWeb\\SignalRBingoWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

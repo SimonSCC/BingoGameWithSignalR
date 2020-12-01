@@ -1,0 +1,53 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_LoginLayout";
+}
+<h1 class="m-3">Bingo Bango Game</h1>
+<p>A player/host named Simon is needed</p>
+<hr />
+<form asp-action="ProceedToGame" asp-controller="Home">
+    <input asp-for="@Model.Username" class="input-group-text inline" placeholder="Username" id="usernameinput" />
+    <br />
+    <span asp-validation-for="Username" class="text-danger"></span>
+    <div asp-validation-summary="ModelOnly" class="text-danger liststylenone"></div>
+    <br />
+    <br />
+
+    <input type="submit" value="Proceed to Game!" id="joinbtn" class="normalBtn">
+</form>
+<div id="catspace">
+
+    @{
+        if (Model != null && (Model.Username.EndsWith("cat") || Model.Username.EndsWith("nyan")))
+        {
+            <p hidden id="usernamehid">@Model.Username</p>
+            @*<div id="mycat" style="position: absolute; left: 0; top: 0;">
+                <p id="usernamecat">@Model.Username</p>
+                <img src="~/img/cat.png" alt="" id="cat" />
+            </div>*@
+
+        }
+    }
+</div>
+
+
+
+
+
+
+<script defer src="~/js/signalr/dist/browser/signalr.js"></script>
+<script defer src="~/js/start.js"></script>
+
+@*//Display joined players HERE*@
+
+
+
+@*<button type="button" class="normalBtn" id="joinbtn" onclick="JoinClick()">Join!</button>
+
+    <h4 class="mt-5">Participants</h4>
+    <div class="members" id="membersofgame">
+
+    </div>
+
+    <br />*@

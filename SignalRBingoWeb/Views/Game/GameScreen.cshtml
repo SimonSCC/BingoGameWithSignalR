@@ -1,0 +1,83 @@
+﻿@model GameViewModel
+@{
+    Layout = "_LoginLayout";
+}
+<p hidden id="usernameContainer">@Model.Player.Username</p>
+
+<h1 class="text-center">Welcome @Model.Player.Username</h1>
+
+<hr />
+<div class="topofpage">
+    <h3 class="numbercontainer"><span id="number">Get Ready!</span></h3>
+    @if (Model.Player.Username.ToLower() == "simon")
+    {
+        <div class="flex">
+
+            <button id="nextnr" class="normalBtn">Begin!</button>  @*//Make number rolling animation and sounds *@
+            <button class="normalBtn ResetGameBtn" onclick="ResetGame()">Reset Game!</button>  @*//Make number rolling animation and sounds *@
+        </div>
+
+    }
+</div>
+
+<hr />
+<div class="row">
+
+    <div class="col-8 bingo-container">
+        @for (int i = 0; i < 4; i++)
+        {
+            <div class="row">
+                <button class="col colbtn" onclick="MarkAsComplete(this)"> @Model.ColumnOne[i] </button>
+                <button class="col colbtn" onclick="MarkAsComplete(this)"> @Model.ColumnTwo[i]</button>
+                <button class="col colbtn" onclick="MarkAsComplete(this)"> @Model.ColumnThree[i]</button>
+                <button class="col colbtn" onclick="MarkAsComplete(this)"> @Model.ColumnFour[i]</button>
+                <button class="col colbtn" onclick="MarkAsComplete(this)"> @Model.ColumnFive[i]</button>
+            </div>
+        }
+    </div>
+    <div class="col-4">
+        <div class="text-center otherstuff">
+            <h4>Participants</h4>
+            <div class="members" id="membersofgame">
+
+            </div>
+            <hr />
+            <span id="attempts">3</span> Attempts <br />
+            <button id="bingobtn" class="bingobtn" onclick="BingoBtnClicked('@Model.ColumnOneString', '@Model.ColumnTwoString', '@Model.ColumnThreeString', '@Model.ColumnFourString', '@Model.ColumnFiveString', '@Model.Player.Username')">
+                BINGO!
+            </button>
+            <button class="inline normalBtn" id="rowbtn" onclick="RowClicked('@Model.ColumnOneString', '@Model.ColumnTwoString', '@Model.ColumnThreeString', '@Model.ColumnFourString', '@Model.ColumnFiveString', '@Model.Player.Username')">
+            Row!
+            </button>
+            <p id="didbingo"></p>
+            <hr />
+            <div class="chat-window">
+                <ul id="messagesList"></ul>
+            </div>
+            <hr />
+
+            <input type="text" id="messageInput" placeholder="Your message" class="input-group-text inline" />
+            <input type="button" class="normalBtn" id="sendButton" value="Send" /><br />
+
+            
+
+        </div>
+    </div>
+
+
+</div>
+<button class="normalBtn ResetGameBtn inline float-right" onclick="GoBack()">Exit game</button>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
+<script src="~/js/bingo.js"></script>
+
+@*<script>
+        $("bingobtn").click(function () {
+            console.log("Im here");
+            var listarrs = $(this).data("arrs");
+            BingoBtnClicked(listarrs);
+        });
+    </script>*@

@@ -1,0 +1,80 @@
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\libman.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.exe
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.deps.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.Views.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.Views.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorAssemblyInfo.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorAssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\staticwebassets\SignalRBingoWeb.StaticWebAssets.Manifest.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\staticwebassets\SignalRBingoWeb.StaticWebAssets.xml
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\scopedcss\bundle\SignalRBingoWeb.styles.css
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.TagHelpers.input.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.TagHelpers.output.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorCoreGenerate.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Game\GameScreen.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.Views.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.dll
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.pdb
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Code\Skole År 2\C#\Asp.Net Projekter\Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.csproj.CopyComplete
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\libman.json
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.exe
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.deps.json
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.runtimeconfig.json
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.dll
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.pdb
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.Views.dll
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\bin\Release\netcoreapp3.1\SignalRBingoWeb.Views.pdb
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorAssemblyInfo.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorAssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\staticwebassets\SignalRBingoWeb.StaticWebAssets.Manifest.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\staticwebassets\SignalRBingoWeb.StaticWebAssets.xml
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\scopedcss\bundle\SignalRBingoWeb.styles.css
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.TagHelpers.input.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.TagHelpers.output.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorCoreGenerate.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Game\GameScreen.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.Views.pdb
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.dll
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.pdb
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Code\Portfolio - Opgaver\SignalRBingoSolution\SignalRBingoWeb\obj\Release\netcoreapp3.1\SignalRBingoWeb.csproj.CopyComplete
